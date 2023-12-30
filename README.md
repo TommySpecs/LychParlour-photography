@@ -40,11 +40,11 @@ find offers/deals
 
 #### colour scheme
 -screen shots of colour scheme and why used-
-white and earth tones, 
+white and earth tones,
 
 #### typography
 google fonts
-Lato
+Josefin sans
 oswald fonts
 
 #### image sourcing

@@ -98,7 +98,7 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero\ 2.webp") no-repeat center center/cover;
-    position:relative;
+    position: relative;
 }
 
 #cover-text {
@@ -107,32 +107,45 @@ main {
     position: absolute;
     bottom: 30px;
     width: 80%;
-    min-height:200px;
+    min-height: 200px;
     padding-top: 40px;
-    padding-left:10px
-    }
+    padding-left: 10px
+}
 
-    #about-me{
-        background-color: rgb(143, 151, 121)
-    }
-    #about-me-title{
-        font-family: 'Oswald', sans-serif;
-        text-align: center;
-        letter-spacing: 2px;
-        font-size: 250%;
-    }
-    #about-me > p {
-        text-align:center;
-        font-size: 150%
-    }
-    hr{
-        border-top: 1px solid;
-            margin: 5px 0;        
-    }
- 
+#about-me {
+    background-color: rgb(143, 151, 121)
+}
+
+#about-me-title {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 250%;
+}
+
+#about-me>p {
+    text-align: center;
+    font-size: 150%
+}
+
+hr {
+    border-top: 1px solid;
+    margin: 5px 0;
+}
+
+#wedding1 {
+    height: 90vwx;
+    width: 100%;
+}
+
+family1 {
+    height: 25vw;
+    width: 100%;
+}
+
 /*Footer*/
 footer {
-    background-color: #3a3a3a; 
+    background-color: #3a3a3a;
 }
 
 #social-networks {
@@ -183,8 +196,9 @@ footer {
         /*push main content down to accomidate larger header*/
         margin-top: 150px;
     }
+
     /*Hero*/
-    #cover-text{
+    #cover-text {
         width: 300px;
         right: 50px;
     }

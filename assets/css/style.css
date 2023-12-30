@@ -1,5 +1,5 @@
 /*Google fonts import*/
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Oswald:wght@400;500;600;700&display=swap');
 
 /*Aterisk Wildcard Selctor to override default styles added by the browser*/
 * {
@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     /*Generic Project Styles*/
     color: #ffffff;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Josfin-Sans', sans-serif;
 }
 
 h1,
@@ -112,7 +112,24 @@ main {
     padding-left:10px
     }
 
-
+    #about-me{
+        background-color: rgb(143, 151, 121)
+    }
+    #about-me-title{
+        font-family: 'Oswald', sans-serif;
+        text-align: center;
+        letter-spacing: 2px;
+        font-size: 250%;
+    }
+    #about-me > p {
+        text-align:center;
+        font-size: 150%
+    }
+    hr{
+        border-top: 1px solid;
+            margin: 5px 0;        
+    }
+ 
 /*Footer*/
 footer {
     background-color: #3a3a3a; 

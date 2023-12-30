@@ -18,20 +18,38 @@ The audience for this webpage would be those looking for a photograpgher for wed
 ### user aims
 
 #### client goals
+gain inspiration
+to locate a photographer in their area
+find a collaberator
+to purchase prints
 
 #### First time visitor goals
+to feel calm and welcome
+gain an insight into my styleto invite them to look at my gallery
+to hire media
+to buy prints
 
 #### returning visitor goals
+repeat hire
+to show others
+to see gallery updates
+find offers/deals
 
 ## User Experience design (UXD)
 -discuss accessibility -
 
 #### colour scheme
 -screen shots of colour scheme and why used-
+white and earth tones, 
 
 #### typography
+google fonts
+Lato
+oswald fonts
 
 #### image sourcing
+unsplash
+pexels
 
 ---
 

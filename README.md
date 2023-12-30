@@ -1,39 +1,124 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# LychParlour Photography
 
-Welcome,
+LychParlour photography is a website to advertise the services and display the work of a photographer.
+built in a responsive way that anyone can view this page either at home or out and about.
+The audience for this webpage would be those looking for a photograpgher for weddings, events or family/pottraits.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+-add images to show responsivity-
 
 ---
 
-Happy coding!
+## Contents
+-input contents page with links to each section-
+
+---
+
+## User Experience (UX)
+-initial discussion-
+### user aims
+
+#### client goals
+gain inspiration
+to locate a photographer in their area
+find a collaberator
+to purchase prints
+
+#### First time visitor goals
+to feel calm and welcome
+gain an insight into my styleto invite them to look at my gallery
+to hire media
+to buy prints
+
+#### returning visitor goals
+repeat hire
+to show others
+to see gallery updates
+find offers/deals
+
+## User Experience design (UXD)
+-discuss accessibility -
+
+#### colour scheme
+-screen shots of colour scheme and why used-
+white and earth tones, 
+
+#### typography
+google fonts
+Lato
+oswald fonts
+
+#### image sourcing
+unsplash
+pexels
+
+---
+
+## Features
+
+### General features on each page
+The website is comprised of three pages which are accessible from the navigation menu (home page, gallery & contact).
+All Pages on the website have:
+
+A responsive navigation bar at the top of all pages, -further details needed-
+
+A footer which contains social media icon links to facebook, Instagram, Twitter & TikTok. Icons were used to keep the footer clean and because they are universally recognisable.
+
+Home Page.
+
+Hero image
+
+About Us Section
+
+Gallery
+
+Contact
+
+### Future Implementations.
+
+---
+
+## Accessibility
+I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
+
+Using semantic HTML.
+Using descriptive alt attributes on images on the site.
+Ensuring that there is a sufficient colour contrast throughout the site.
+Ensuring menus are accessible by marking the current page as current for screen readers.
+
+---
+
+## Technologies Used
+### Languages Used
+HTML and CSS were used to create this website.
+
+### Frameworks, Libraries & Programs Used
+
+Git - For version control.
+
+Github - To save and store the files for the website.
+
+Google Fonts - To import the fonts used on the website.
+
+Font Awesome - For the iconography on the website.
+
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+Favicon.io To create favicon.
+
+---
+
+## Deployment
+
+---
+
+## Testing
+
+-link to testing.md
+
+---
+
+## Credits
+
+### Content
+
+### Media

@@ -142,13 +142,15 @@ family1 {
     height: 25vw;
     width: 100%;
 }
+
 /*Gallery Page*/
-#photos img{
-    width:100%;
-    line-height: 1em;    
+#photos img {
+    width: 100%;
+    line-height: 1em;
 }
-#photos{
-    line-height:0;
+
+#photos {
+    line-height: 0;
 }
 
 /*Footer*/
@@ -167,6 +169,14 @@ footer {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
+}
+
+/*Media query: large or landscape phones (578px and up)*/
+@media screen and (min-width: 578px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
 /*Media query: tablets and larger (768px and up)*/
@@ -210,6 +220,11 @@ footer {
         width: 300px;
         right: 50px;
     }
+
+    /*Gallery*/
+    #photos {
+        column-count: 3;
+    }
 }
 
 /*larger devices (laptops & desktops, 992px and up)*/
@@ -222,5 +237,10 @@ footer {
     main {
         /*Bring main content in line with header*/
         margin-top: 78.59px;
+    }
+
+    /*Gallery*/
+    #photos {
+        column-count: 3;
     }
 }

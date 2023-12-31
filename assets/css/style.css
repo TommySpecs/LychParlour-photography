@@ -137,8 +137,12 @@ hr {
 }
 
 #homescreen-images img {
-    width: 25%;
-    display: inline-block;
+    width: 100%;  
+    line-height: 0;
+}
+
+#homescreen-images{
+    line-height: 1em;
 }
 
 /*Gallery Page*/
@@ -277,6 +281,17 @@ footer {
     #cover-text {
         width: 300px;
         right: 50px;
+    }
+    
+    #homescreen-images{
+        display:flex;
+        justify-content: space-evenly;
+        
+    }
+
+    #homescreen-images img{
+        width:25%;
+        column-gap: 0;
     }
 
     /*Gallery*/

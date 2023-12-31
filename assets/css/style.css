@@ -94,6 +94,7 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+
 }
 
 /*Hero Section*/
@@ -136,13 +137,27 @@ hr {
     margin: 5px 0;
 }
 
-#homescreen-images img {
-    width: 100%;  
-    line-height: 0;
+/*images for index.html*/
+#wedding {
+    background: url("../images/Wedding1.webp") no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
 }
 
-#homescreen-images{
-    line-height: 1em;
+#family {
+    background: url("../images/Family\ 1.webp") no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+#pet {
+    background: url("../images/Boxer.webp") no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    position: center;
 }
 
 /*Gallery Page*/
@@ -214,6 +229,7 @@ hr {
 /*Footer*/
 footer {
     background-color: #3a3a3a;
+
 }
 
 #social-networks {
@@ -282,33 +298,51 @@ footer {
         width: 300px;
         right: 50px;
     }
-    
-    #homescreen-images{
-        display:flex;
+
+    /*homescreen images*/
+    #homescreen-images {
+        display: flex;
         justify-content: space-evenly;
-        
     }
 
-    #homescreen-images img{
-        width:25%;
-        column-gap: 0;
+    #wedding {
+        background: url("../images/Wedding1.webp") no-repeat;
+        background-size: cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    #family {
+        background: url("../images/Family\ 1.webp") no-repeat;
+        background-size: cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    #pet {
+        background: url("../images/Boxer.webp") no-repeat;
+        background-size: cover;
+        height: 200px;
+        width: 100%;
+
     }
 
     /*Gallery*/
     #photos {
         column-count: 3;
     }
-        /* Form */
-        
-        .text-input:hover {
-            border-color: #3a3a3a;            
-        }
-    
-        .join-button:hover {
-            background-color: #fafafa;
-            color: #3a3a3a;
-        }
-        
+
+    /* Form */
+
+    .text-input:hover {
+        border-color: #3a3a3a;
+    }
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #3a3a3a;
+    }
+
 
 }
 
@@ -322,6 +356,51 @@ footer {
     main {
         /*Bring main content in line with header*/
         margin-top: 78.59px;
+    }
+
+    /*homescreen images*/
+    #homescreen-images {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #homescreen-images img {
+        width: 33.3%;
+        column-gap: 0;
+    }
+
+    #wedding {
+        background: url("../images/Wedding1.webp") no-repeat;
+        background-size: cover;
+        height: 500px;
+        width: 100%;
+    }
+
+    #family {
+        background: url("../images/Family\ 1.webp") no-repeat;
+        background-size: cover;
+        height: 500px;
+        width: 100%;
+    }
+
+    #pet {
+        background: url("../images/Boxer.webp") no-repeat;
+        background-size: cover;
+        height: 500px;
+        width: 100%;
+
+    }
+
+    .wedding {
+        background-color: rgba(143, 151, 121, .7);
+    }
+
+    .family {
+        background-color: rgba(143, 151, 121, .7);
+    }
+
+    .pet {
+        background-color: rgba(143, 151, 121, .7);
     }
 
     /*Gallery*/

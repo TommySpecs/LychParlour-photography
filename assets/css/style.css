@@ -393,35 +393,57 @@ footer {
 
     .wedding {
         background-color: rgba(143, 151, 121, .7);
+        height: 75px;
+        width: 100%;
+        background-size: cover;
+        font-size: 198%;
+        text-align: center;
+        margin-top: 200px;
+        display: none;
+
     }
 
     .family {
         background-color: rgba(143, 151, 121, .7);
+        height: 125px;
+        width: 100%;
+        background-size: cover;
+        font-size: 198%;
+        text-align: center;
+        margin-top: 185px;
+        display:none;
     }
 
     .pet {
         background-color: rgba(143, 151, 121, .7);
+        height: 75px;
+        width: 100%;
+        background-size: cover;
+        font-size: 198%;
+        text-align: center;
+        margin-top: 200px;
+        display: none;
     }
 
-    /*Gallery*/
-    #photos {
-        column-count: 3;
-    }
+        /*Gallery*/
+        #photos{
+            column-count: 3;
+        }        
+        
+        .enlarge {
+            top: -50px;
+            left: -35px;
+            display: block;
+            z-index: 999;
+            cursor: pointer;
+            transition-property: all;
+            transition-duration: 0.3s;
+            transition-timing-function: ease;
+        }
+        /*change the number below to scale to the appropriate size*/
+        .enlarge:hover {
+            transform: scale(1.5);
 
-    .enlarge {
-        top: -50px;
-        left: -35px;
-        display: block;
-        z-index: 999;
-        cursor: pointer;
-        transition-property: all;
-        transition-duration: 0.3s;
-        transition-timing-function: ease;
-    }
-
-    /*change the number below to scale to the appropriate size*/
-    .enlarge:hover {
-        transform: scale(1.5);
-
-    }
+        }
+    
 }

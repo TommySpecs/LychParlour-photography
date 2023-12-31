@@ -142,6 +142,14 @@ family1 {
     height: 25vw;
     width: 100%;
 }
+/*Gallery Page*/
+#photos img{
+    width:100%;
+    line-height: 1em;    
+}
+#photos{
+    line-height:0;
+}
 
 /*Footer*/
 footer {

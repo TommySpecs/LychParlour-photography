@@ -2,20 +2,21 @@
 
 LychParlour photography is a website to advertise the services and display the work of a photographer.
 built in a responsive way that anyone can view this page either at home or out and about.
-The audience for this webpage would be those looking for a photograpgher for weddings, events or family/pottraits.
+The audience for this webpage would be those looking for a photograpgher for weddings, events or family/potraits
 
--add images to show responsivity-
+![generated mock up of LychParlour Photography](../LychParlour-photography/assets/images-for-README/mock-up/mock-up.png)
 
 ---
 
 ## Contents
--input contents page with links to each section-
+[User Experience](#user-experience-ux)
+[User Aims](#user-aims)
 
 ---
 
 ## User Experience (UX)
 -initial discussion-
-### user aims
+### User Aims
 
 #### client goals
 gain inspiration

@@ -1,54 +1,89 @@
 # LychParlour Photography
 
-LychParlour photography is a website to advertise the services and display the work of a photographer.
-built in a responsive way that anyone can view this page either at home or out and about.
-The audience for this webpage would be those looking for a photograpgher for weddings, events or family/potraits
+LychParlour photography is designed to be a responsive site that will allow visitors to view the portfolio, find out about recent works, follow social medias and contact with potential job opportunities.
 
 ![generated mock up of LychParlour Photography](../LychParlour-photography/assets/images-for-README/mock-up/mock-up.png)
 
 ---
 
 ## Contents
-[User Experience](#user-experience-ux)
-[User Aims](#user-aims)
+- [LychParlour Photography](#lychparlour-photography)
+  - [Contents](#contents)
+  - [User Experience (UX)](#user-experience-ux)
+    - [User Aims](#user-aims)
+      - [client goals](#client-goals)
+      - [First time visitor goals](#first-time-visitor-goals)
+      - [returning visitor goals](#returning-visitor-goals)
+  - [User Experience Design (UXD)](#user-experience-design-uxd)
+      - [colour scheme](#colour-scheme)
+      - [typography](#typography)
+      - [image sourcing](#image-sourcing)
+  - [Features](#features)
+    - [General Features](#general-features)
+    - [Future Implementations](#future-implementations)
+  - [Accessibility](#accessibility)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+  - [Deployment](#deployment)
+  - [Testing](#testing)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
 
 ---
 
 ## User Experience (UX)
--initial discussion-
+
+LychParlour Photographer is an online site dedicated to the sharing recent works by the photographer,with calls to action to contact 
+Portfolio Viewing:
+Services and Pricing
+Contact Information:
+About the Photographer
+Social Media
+
 ### User Aims
 
 #### client goals
+
 gain inspiration
 to locate a photographer in their area
 find a collaberator
 to purchase prints
 
 #### First time visitor goals
+
 to feel calm and welcome
 gain an insight into my styleto invite them to look at my gallery
 to hire media
 to buy prints
 
 #### returning visitor goals
+
 repeat hire
 to show others
 to see gallery updates
 find offers/deals
 
-## User Experience design (UXD)
+---
+
+## User Experience Design (UXD)
+
 -discuss accessibility -
 
 #### colour scheme
+
 -screen shots of colour scheme and why used-
 white and earth tones,
 
 #### typography
+
 google fonts
 Josefin sans
 oswald fonts
 
 #### image sourcing
+
 unsplash
 pexels
 
@@ -56,7 +91,8 @@ pexels
 
 ## Features
 
-### General features on each page
+### General Features
+
 The website is comprised of three pages which are accessible from the navigation menu (home page, gallery & contact).
 All Pages on the website have:
 
@@ -74,11 +110,12 @@ Gallery
 
 Contact
 
-### Future Implementations.
+### Future Implementations
 
 ---
 
 ## Accessibility
+
 I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
 
 Using semantic HTML.
@@ -89,7 +126,9 @@ Ensuring menus are accessible by marking the current page as current for screen 
 ---
 
 ## Technologies Used
+
 ### Languages Used
+
 HTML and CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used

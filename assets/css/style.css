@@ -24,9 +24,7 @@ h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-
 }
-
 
 /*Header*/
 header {
@@ -94,7 +92,6 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
-
 }
 
 /*Hero Section*/
@@ -143,6 +140,7 @@ hr {
     background-size: cover;
     height: 300px;
     width: 100%;
+    position: relative;
 }
 
 #family {
@@ -150,6 +148,7 @@ hr {
     background-size: cover;
     height: 300px;
     width: 100%;
+    position: relative;
 }
 
 #pet {
@@ -158,6 +157,40 @@ hr {
     height: 250px;
     width: 100%;
     position: center;
+    position: relative;
+}
+
+.wedding {
+    background-color: rgba(143, 151, 121, .7);
+        position: absolute;
+        bottom: 30px;
+        width: 50%;
+        min-height: 50px;
+        padding-top: 10px;
+        padding-left: 10px;
+        right: 30px;
+}
+
+.family {
+    background-color: rgba(143, 151, 121, .7);
+        position: absolute;
+        bottom: 30px;
+        width: 50%;
+        min-height: 50px;
+        padding-top: 10px;
+        padding-left: 10px;
+        right: 30px;
+}
+
+.pet {
+    background-color: rgba(143, 151, 121, .7);
+        position: absolute;
+        bottom: 30px;
+        width: 50%;
+        min-height: 50px;
+        padding-top: 10px;
+        padding-left: 10px;
+        right: 30px;
 }
 
 /*Gallery Page*/
@@ -216,7 +249,6 @@ hr {
     padding: 0 5px;
 }
 
-
 .join-button {
     margin-top: 20px;
     border-radius: 2px;
@@ -229,7 +261,6 @@ hr {
 /*Footer*/
 footer {
     background-color: #3a3a3a;
-
 }
 
 #social-networks {
@@ -247,10 +278,7 @@ footer {
 
 /*Media query: large or landscape phones (578px and up)*/
 @media screen and (min-width: 578px) {
-    #homescreen-images img {
-        column-gap: 0;
-    }
-
+   
     #photos {
         column-count: 2;
         column-gap: 0;
@@ -305,27 +333,20 @@ footer {
         justify-content: space-evenly;
     }
 
-    #wedding {
-        background: url("../images/Wedding1.webp") no-repeat;
-        background-size: cover;
+    #wedding {       
         height: 200px;
         width: 100%;
     }
 
-    #family {
-        background: url("../images/Family\ 1.webp") no-repeat;
-        background-size: cover;
+    #family {       
         height: 200px;
         width: 100%;
     }
 
-    #pet {
-        background: url("../images/Boxer.webp") no-repeat;
-        background-size: cover;
+    #pet {        
         height: 200px;
         width: 100%;
-
-    }
+    }    
 
     /*Gallery*/
     #photos {
@@ -342,7 +363,6 @@ footer {
         background-color: #fafafa;
         color: #3a3a3a;
     }
-
 
 }
 
@@ -388,7 +408,6 @@ footer {
         background-size: cover;
         height: 500px;
         width: 100%;
-
     }
 
     .wedding {
@@ -399,19 +418,17 @@ footer {
         font-size: 198%;
         text-align: center;
         margin-top: 200px;
-        display: none;
-
     }
+
 
     .family {
         background-color: rgba(143, 151, 121, .7);
-        height: 125px;
+        height: 135px;
         width: 100%;
         background-size: cover;
         font-size: 198%;
         text-align: center;
         margin-top: 185px;
-        display:none;
     }
 
     .pet {
@@ -422,28 +439,63 @@ footer {
         font-size: 198%;
         text-align: center;
         margin-top: 200px;
-        display: none;
+
     }
 
-        /*Gallery*/
-        #photos{
-            column-count: 3;
-        }        
-        
-        .enlarge {
-            top: -50px;
-            left: -35px;
-            display: block;
-            z-index: 999;
-            cursor: pointer;
-            transition-property: all;
-            transition-duration: 0.3s;
-            transition-timing-function: ease;
-        }
-        /*change the number below to scale to the appropriate size*/
-        .enlarge:hover {
-            transform: scale(1.5);
+    /*Gallery*/
+    #photos {
+        column-count: 3;
+    }
 
-        }
-    
+    .enlarge {
+        top: -50px;
+        left: -35px;
+        display: block;
+        z-index: 999;
+        cursor: pointer;
+        transition-property: all;
+        transition-duration: 0.3s;
+        transition-timing-function: ease;
+    }
+
+    /*change the number below to scale to the appropriate size*/
+    .enlarge:hover {
+        transform: scale(1.5);
+    }
+
+}
+
+/* laptops & desktops, 1440px and up*/
+@media screen and (min-width: 1440px) {
+
+    .wedding {
+        background-color: rgba(143, 151, 121, .7);
+        height: 115px;
+        width: 100%;
+        background-size: cover;
+        font-size: 198%;
+        text-align: center;
+        margin-top: 200px;
+    }
+
+
+    .family {
+        background-color: rgba(143, 151, 121, .7);
+        height: 150px;
+        width: 100%;
+        background-size: cover;
+        font-size: 198%;
+        text-align: center;
+        margin-top: 185px;
+    }
+
+    .pet {
+        background-color: rgba(143, 151, 121, .7);
+        height: 115px;
+        width: 100%;
+        background-size: cover;
+        font-size: 198%;
+        text-align: center;
+        margin-top: 200px;
+    }
 }

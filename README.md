@@ -35,7 +35,8 @@ LychParlour photography is designed to be a responsive site that will allow visi
 
 ## User Experience (UX)
 
-LychParlour Photographer is an online site dedicated to the sharing recent works by the photographer,with calls to action to contact 
+LychParlour Photographer is an online site dedicated to the sharing recent works by the photographer,with calls to action to contact if their services are required.
+
 Portfolio Viewing:
 Services and Pricing
 Contact Information:
@@ -73,8 +74,7 @@ find offers/deals
 
 #### colour scheme
 
--screen shots of colour scheme and why used-
-white and earth tones,
+![generated color palette used in the webpage](../LychParlour-photography/assets/images-for-README/color-palette/cooler%20color%20palette.png)
 
 #### typography
 
@@ -98,17 +98,23 @@ All Pages on the website have:
 
 A responsive navigation bar at the top of all pages, -further details needed-
 
+![Screenshot of webpage from header to bottom of hero image](../LychParlour-photography/assets/images-for-README/webpage-screenshots/landing%20page%20header%20and%20hero%20image.png)
+
 A footer which contains social media icon links to facebook, Instagram, Twitter & TikTok. Icons were used to keep the footer clean and because they are universally recognisable.
 
-Home Page.
-
-Hero image
+![Screenshot of webpage footer](../LychParlour-photography/assets/images-for-README/webpage-screenshots/footer.png)
 
 About Us Section
 
+![Screenshot of About Me section](../LychParlour-photography/assets/images-for-README/webpage-screenshots/about%20me%20section.png)
+
 Gallery
 
+![Screenshot of webpage Gallery page](../LychParlour-photography/assets/images-for-README/webpage-screenshots/Gallery.png)
+
 Contact
+
+![Screenshot of webpage Contact Me page](../LychParlour-photography/assets/images-for-README/webpage-screenshots/contact%20us%20page.png)
 
 ### Future Implementations
 
@@ -133,8 +139,6 @@ HTML and CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used
 
-Git - For version control.
-
 Github - To save and store the files for the website.
 
 Google Fonts - To import the fonts used on the website.
@@ -143,7 +147,7 @@ Font Awesome - For the iconography on the website.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-Favicon.io To create favicon.
+Favicon.io - To create favicon.
 
 ---
 

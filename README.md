@@ -24,7 +24,7 @@ The target visitors to this sight are:
     - [*Returning Visitor Goals*](#returning-visitor-goals)
   - [***User Experience Design (UXD)***](#user-experience-design-uxd)
     - [*Colour Scheme*](#colour-scheme)
-    - [typography](#typography)
+    - [*Typography*](#typography)
     - [image sourcing](#image-sourcing)
   - [Features](#features)
     - [General Features](#general-features)
@@ -83,19 +83,26 @@ The dark grey was used for the header and footer to create a border abound the s
 
 White was used as the text font colour as it pops against darker shades making the text easy to read and also poijnts out to the visitor that there is information for them to read.
 
+The shade of green was chosen as it is a very earth tne colour, to match with the ethos of the photographer. It is used to surround the text in the site so if a visitor sees the green they will also know there is text for them to read.
 
+### *Typography*
 
-### typography
+The fonts used in the site were taken from Google fonts,
 
-google fonts
-Josefin sans
-oswald fonts
+The fonts used were:
+
+- Josefin sans
+- Oswald fonts
+
+The Oswald font is used for titles and pieces of writting that need to be impactful due to the bold, eyecatching nature of the font.
+Where as Josefin felt like it flowed nicer and made the text look slightly less blocky and felt it gave flow to the site.
 
 ### image sourcing
 
-unsplash
-pexels
-From my Personal collection
+Images for this site were sourced from my own photographs, which I took and two websites:
+
+- unsplash
+- pexels
 
 ---
 
@@ -103,7 +110,7 @@ From my Personal collection
 
 ### General Features
 
-The website is comprised of three pages which are accessible from the navigation menu (home page, gallery & contact).
+The website is comprised of three pages which are accessible from the navigation menu (Home, Gallery & Contact).
 All Pages on the website have:
 
 A responsive navigation bar at the top of all pages, -further details needed-
@@ -174,5 +181,7 @@ Favicon.io - To create favicon.
 ## Credits
 
 ### Content
+
+Love Running
 
 ### Media

@@ -407,6 +407,7 @@ footer {
         column-count: 3;
     }
 
+    /*This code was taken from appen css guide source: https: //success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover*/
     .enlarge {
         top: -50px;
         left: -35px;

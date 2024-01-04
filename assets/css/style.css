@@ -136,23 +136,23 @@ hr {
 
 /*images for index.html*/
 #wedding {
-    background: url("../images/Wedding1.webp") no-repeat;
+    background: url("../images/wedding1.webp") no-repeat;
     background-size: cover;
-    height: 300px;
+    height: 250px;
     width: 100%;
     position: relative;
 }
 
 #family {
-    background: url("../images/Family\ 1.webp") no-repeat;
+    background: url("../images/family1.webp") no-repeat;
     background-size: cover;
-    height: 300px;
+    height: 250px;
     width: 100%;
     position: relative;
 }
 
 #pet {
-    background: url("../images/Boxer.webp") no-repeat;
+    background: url("../images/boxer.webp") no-repeat;
     background-size: cover;
     height: 250px;
     width: 100%;
@@ -209,7 +209,7 @@ hr {
 
 /* Form */
 #contact {
-    background-image: url("../images/hero\ image\ 1.webp");
+    background-image: url("../images/hero1.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -337,23 +337,23 @@ footer {
     #wedding,
     #family,
     #pet {
-        height: 200px;
+        height: 600px;
         width: 100%;
     }
   
     .wedding {
         left: 0px;
-        font-size: 75%;        
+        font-size: 150%;        
        
     }
 
     .family {
-        font-size: 75%;        
+        font-size: 150%;        
     }
 
     .pet {
         right: 0px;
-        font-size: 75%;
+        font-size: 150%;
     }
 
     /*Gallery*/
@@ -390,7 +390,7 @@ footer {
     #wedding,
     #family,
     #pet {
-        height: 275px;
+        height: 883px;
         width: 100%;
     }
 

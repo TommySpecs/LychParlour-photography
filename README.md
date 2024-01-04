@@ -25,9 +25,9 @@ The target visitors to this sight are:
   - [***User Experience Design (UXD)***](#user-experience-design-uxd)
     - [*Colour Scheme*](#colour-scheme)
     - [*Typography*](#typography)
-    - [image sourcing](#image-sourcing)
-  - [Features](#features)
-    - [General Features](#general-features)
+    - [*image sourcing*](#image-sourcing)
+  - [***Features***](#features)
+    - [*General Features*](#general-features)
     - [Future Implementations](#future-implementations)
   - [Accessibility](#accessibility)
   - [Technologies Used](#technologies-used)
@@ -97,7 +97,7 @@ The fonts used were:
 The Oswald font is used for titles and pieces of writting that need to be impactful due to the bold, eyecatching nature of the font.
 Where as Josefin felt like it flowed nicer and made the text look slightly less blocky and felt it gave flow to the site.
 
-### image sourcing
+### *image sourcing*
 
 Images for this site were sourced from my own photographs, which I took and two websites:
 
@@ -106,14 +106,12 @@ Images for this site were sourced from my own photographs, which I took and two 
 
 ---
 
-## Features
+## ***Features***
 
-### General Features
+### *General Features*
 
 The website is comprised of three pages which are accessible from the navigation menu (Home, Gallery & Contact).
-All Pages on the website have:
-
-A responsive navigation bar at the top of all pages, -further details needed-
+All Pages on the website have responsive navigation bar at the top which allows ease of movement through the site, with clear headingings so the visitor knows which page the navigation bar will take them too and also show what page they are currently on.
 
 ![Screenshot of webpage from header to bottom of hero image](../LychParlour-photography/assets/images-for-README/webpage-screenshots/landing%20page%20header%20and%20hero%20image.png)
 

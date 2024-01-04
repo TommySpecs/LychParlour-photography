@@ -9,7 +9,7 @@ The target visitors to this sight are:
 - Event planners
 - Media agencies
 
-![generated mock up of LychParlour Photography](../LychParlour-photography/assets/images-for-README/mock-up/mock-up.png)
+![generated mock up of LychParlour Photography](docs/mock-up/mock-up.webp)
 
 ---
 
@@ -75,7 +75,7 @@ This is from layout decisions colour schemes, chosen fonts and adding details fo
 
 ### *Colour Scheme*
 
-![generated color palette used in the webpage](../LychParlour-photography/assets/images-for-README/color-palette/cooler%20color%20palette.png)
+![generated color palette used in the webpage](docs/color-palette/cooler-color-palette.webp)
 
 The colour scheme chosen for this site is made up of three simple colours. This was to keep consistency through out the site but the colours were also chosen for specific reasons.
 
@@ -113,23 +113,36 @@ Images for this site were sourced from my own photographs, which I took and two 
 The website is comprised of three pages which are accessible from the navigation menu (Home, Gallery & Contact).
 All Pages on the website have responsive navigation bar at the top which allows ease of movement through the site, with clear headingings so the visitor knows which page the navigation bar will take them too and also show what page they are currently on.
 
-![Screenshot of webpage from header to bottom of hero image](../LychParlour-photography/assets/images-for-README/webpage-screenshots/landing%20page%20header%20and%20hero%20image.png)
-
-A footer which contains social media icon links to facebook, Instagram, Twitter & TikTok. Icons were used to keep the footer clean and because they are universally recognisable.
-
-![Screenshot of webpage footer](../LychParlour-photography/assets/images-for-README/webpage-screenshots/footer.png)
+favicon
+![screenshot of tab on broweer](docs/webpage-screenshots/favicon.webp)
+logo
+navbar 
+hero image
+hero text
+![Screenshot of webpage from header to bottom of hero image](docs/webpage-screenshots/header-hero.webp)
 
 About Us Section
 
-![Screenshot of About Me section](../LychParlour-photography/assets/images-for-README/webpage-screenshots/about%20me%20section.png)
+![Screenshot of About Me section](docs/webpage-screenshots/about-me.webp)
+
+call to action
+![Screenshot of the call to action images](docs/webpage-screenshots/c2a-images.webp)
+
+A footer which contains social media icon links to facebook, Instagram, Twitter & TikTok. Icons were used to keep the footer clean and because they are universally recognisable.
+
+![Screenshot of webpage footer](docs/webpage-screenshots/footer.webp)
 
 Gallery
 
-![Screenshot of webpage Gallery page](../LychParlour-photography/assets/images-for-README/webpage-screenshots/Gallery.png)
+![Screenshot of webpage Gallery page](docs/webpage-screenshots/gallery.webp)
 
 Contact
 
-![Screenshot of webpage Contact Me page](../LychParlour-photography/assets/images-for-README/webpage-screenshots/contact%20us%20page.png)
+![Screenshot of webpage Contact Me page](docs/webpage-screenshots/contact-us.webp)
+
+thank you page
+
+404
 
 ### Future Implementations
 

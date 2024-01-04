@@ -261,23 +261,23 @@ hr {
 }
 
 /*Thank You Page*/
-#thankspage{
+#thankspage {
     background-image: url("../images/hero2.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
+
 #thankyou {
     color: #ffffff;
     background-color: rgba(143, 151, 121, .7);
     padding: 30px;
-        font-size:150%;
-
+    font-size: 150%;
 }
 
 /*Footer*/
-footer{
+footer {
     background-color: #3a3a3a;
 }
 
@@ -292,6 +292,15 @@ footer{
 #social-networks i {
     font-size: 160%;
     padding: 5%;
+}
+
+/*404 Page*/
+.container{
+    color: #ffffff;
+    background-color: rgba(143, 151, 121, .7);
+    padding: 30px;
+    font-size: 150%;
+    text-align:center;
 }
 
 /*Media query: large or landscape phones (578px and up)*/
@@ -361,7 +370,6 @@ footer{
     .wedding {
         left: 0px;
         font-size: 75%;
-
     }
 
     .family {
@@ -388,7 +396,6 @@ footer{
         background-color: #fafafa;
         color: #3a3a3a;
     }
-
 }
 
 /*larger devices (laptops & desktops, 992px and up)*/
@@ -409,45 +416,45 @@ footer{
     #pet {
         height: 275px;
     }
-        
-        .wedding,
-        .family,
-        .pet {
-            width: 75%;
-            font-size: 100%;
-            bottom: 30px;
-        }
 
-        /*Gallery*/
-        #photos {
-            column-count: 3;
-        }
-
-        /*This code was taken from appen css guide source: https: //success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover*/
-        .enlarge {
-            top: -50px;
-            left: -35px;
-            display: block;
-            z-index: 999;
-            cursor: pointer;
-            transition-property: all;
-            transition-duration: 0.3s;
-            transition-timing-function: ease;
-        }
-
-        .enlarge:hover {
-            transform: scale(1.5);
-        }
+    .wedding,
+    .family,
+    .pet {
+        width: 75%;
+        font-size: 100%;
+        bottom: 30px;
     }
 
-    /*large devices (laptops & desktops, 1440px and up)*/
-    @media screen and (min-width: 1440px) {
-
-        /*homescreen images*/
-        #wedding,
-        #family,
-        #pet {
-            height: 350px;
-            width: 33.3%;
-        }
+    /*Gallery*/
+    #photos {
+        column-count: 3;
     }
+
+    /*This code was taken from appen css guide source: https: //success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover*/
+    .enlarge {
+        top: -50px;
+        left: -35px;
+        display: block;
+        z-index: 999;
+        cursor: pointer;
+        transition-property: all;
+        transition-duration: 0.3s;
+        transition-timing-function: ease;
+    }
+
+    .enlarge:hover {
+        transform: scale(1.5);
+    }
+}
+
+/*large devices (laptops & desktops, 1440px and up)*/
+@media screen and (min-width: 1440px) {
+
+    /*homescreen images*/
+    #wedding,
+    #family,
+    #pet {
+        height: 350px;
+        width: 33.3%;
+    }
+}

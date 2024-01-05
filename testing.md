@@ -44,7 +44,7 @@ Browser- Chrome
 | Form | Form directs to Thank you page | Click submit button| Form directs to Thank you page | Pass |
 | Return home link| Redirected to homepage | Clicked link | Redirected to homepage | Pass |
 | Error-404       |                                                               |                    |                           |           |
-| Return home link| Redirected to homepage                                        | Clicked link       |                           |           |
+| Return home link| Redirected to homepage | Clicked link       | Redirected to homepage | Pass |
 
 
 Tablet- Apple iPad Pro

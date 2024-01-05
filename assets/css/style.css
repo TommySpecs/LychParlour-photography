@@ -325,6 +325,10 @@ footer {
     text-align:center;
    color: #3a3a3a;
 }
+.error-image{
+    width:50%;
+    align-items: center center;
+}
 
 /*Media query: large or landscape phones (578px and up)*/
 @media screen and (min-width: 578px) {

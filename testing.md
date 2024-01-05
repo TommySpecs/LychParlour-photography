@@ -34,8 +34,7 @@ browers-
 | Gallery Link    | When clicked the user is be redirected to the gallery page    | Clicked link       |                           |           |
 | Contact Link    | When clicked the user is redirected to the contact page       | Clicked link       |                           |           |
 | Footer          |                                                               |                    |                           |           |
-| Social Icons    | When clicked the user is redirected to the associated
-                     page in a new tab                                            | Clicked link       |                           |           |
+| Social Icons    | When clicked the user is redirected to the associated page in a new tab | Clicked link     |                           |           |
 | Gallery         | Responsive and interactive zoom feature                       | Hoverd over        |                           |           |
 |Contact Page     |                                                               |                    |                           |           |
 | First name input| Input required to submit form                                 | Entered plain text |                           |           |

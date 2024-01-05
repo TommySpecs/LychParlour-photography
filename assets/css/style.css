@@ -169,7 +169,6 @@ hr {
     background-size: cover;
     height: 250px;
     width: 100%;
-    position: center;
     position: relative;
 }
 
@@ -324,10 +323,6 @@ footer {
 .container{  
     text-align:center;
    color: #3a3a3a;
-}
-.error-image{
-    width:50%;
-    align-items: center center;
 }
 
 /*Media query: large or landscape phones (578px and up)*/

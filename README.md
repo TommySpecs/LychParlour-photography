@@ -73,21 +73,21 @@ To want to come to see updated portfolio highlights with new and captivating ima
 
 ## ***User Experience Design (UXD)***
 
-Websites are designed to be accessible for all. LychParlour Photography has been looked at and designed in a way to be accesssible.
+Websites are designed to be accessible for all. LychParlour Photography has been designed in a way to be accesssible.
 
-This is from layout decisions colour schemes, chosen fonts and adding details for screen readers to assits even the visually impaired to enjoy this site.
+Layout decisions, colour scheme, fonts and details are suitable for screen readers to assist people with visual impairments, allowing them to enjoy this site.
 
 ### *Colour Scheme*
 
 ![generated color palette used in the webpage](docs/color-palette/cooler-color-palette.webp)
 
-The colour scheme chosen for this site is made up of three simple colours. This was to keep consistency through out the site but the colours were also chosen for specific reasons.
+The colour scheme chosen for this site is made up of three simple colours. This was to keep consistency throughout the site but the colours were also chosen for specific reasons.
 
-The dark grey was used for the header and footer to create a border abound the site, aiming to draw the visitors eyes more central.
+The dark grey was used for the header and footer to create a border abound the site, aiming to draw the visitors eyes more toward the centre.
 
-White was used as the text font colour as it pops against darker shades making the text easy to read and also poijnts out to the visitor that there is information for them to read.
+White was used as the text font colour as it pops against darker shades making the text easy to read, and also points out useful and interesting information to the visitor.
 
-The shade of green was chosen as it is a very earth tne colour, to match with the ethos of the photographer. It is used to surround the text in the site so if a visitor sees the green they will also know there is text for them to read.
+The shade of green was chosen as an earth tone to match the ethos of the photographer. It is used to surround the text in the site so if a visitor sees the green they will also know there is text to read.
 
 ### *Typography*
 
@@ -98,10 +98,10 @@ The fonts used were:
 - Josefin sans
 - Oswald fonts
 
-The Oswald font is used for titles and pieces of writting that need to be impactful due to the bold, eyecatching nature of the font.
-Where as Josefin felt like it flowed nicer and made the text look slightly less blocky and felt it gave flow to the site.
+The Oswald font is used for titles and pieces of writing that need to be impactful due to the bold, eye-catching nature of the font.
+Josefin felt like it flowed and made the text look slightly less blocky, adding flow to the entire site.
 
-### *image sourcing*
+### *Image Sourcing*
 
 Images for this site were sourced from my own photographs and two websites:
 
@@ -114,12 +114,12 @@ Images for this site were sourced from my own photographs and two websites:
 
 ### *General Features*
 
-Website features are the many individual components that make up the site, making it easy to navigate, functional and even valuable to visitors. LychParlour photography like all other sites include many features including: 
+Website features are the many individual components that make up the site, making it easy to navigate, functional and valuable to visitors. LychParlour photography, like all other sites, include several features including: 
 
 #### *Favicon*
 
 The favicon is a small image that can be seen on the top left of the visitors tab when they have the site open.
-It is used so if the visitor to the site has multiple tabs open in their browser to see that LychParlour photography is one of those tabs and can be located with ease.
+It is used to mark the site if the visitor has multiple tabs open in their browser, allowing them to find LychParlour photography easily.
 Please see the example of the LychPArlour photgraphy favicon:
 
 ![screenshot of tab on broweer](docs/webpage-screenshots/favicon.webp)
@@ -127,27 +127,27 @@ Please see the example of the LychPArlour photgraphy favicon:
 #### *Logo & Navbar*
 
 The logo is a symbol or text which identifies the site, this being the bold title in the header next to the navigational bar.
-It is big, bold and of contarasting colour to the header background to stand out and to tell the visitor what site they are visiting, and to make it recognisable.
+It is big, bold and of contarasting colour to the header background to stand out and to tell the visitor what site they are visiting, making it recognisable.
 
 The website is comprised of three pages which are accessible from the navigation menu (Home, Gallery & Contact).
 All Pages on the site have responsive navigation bar at the top which allows ease of movement through the site, with clear headingings so the visitor knows which page the navigation bar will take them too and also show what page they are currently on.
 
 #### *Hero section*
 
-A hero image is a large or oversized web banner image usually towards the top of the page. This prominent place makes the hero section often the first thing visitors see when arriving on the site. This gives them an idea on what the website is about and invites them in to look into the further contents oif the site.
+A hero image is a large or oversized web banner image usually towards the top of the page. This prominent place makes the hero section often the first thing visitors see when arriving on the site. This gives them an idea on what the website is about and invites them look into the further content of the site.
 Below is an image of the header and hero section:
 
 ![Screenshot of webpage header and hero section](docs/webpage-screenshots/header-hero.webp)
 
 #### *About Me Section*
-This section is a view into the photographers ethos, why they take the pictures they do and invites the visitor to get to know them better in hopes that the visitor would like to hire them or work with them.
+This section is a view into the photographer's ethos, why they take the pictures, their style, and invites the visitor to get to know them better in hopes that the visitor would like to hire them or work with the photographer now in the future.
 Below is a screenshot from the site showing the about me section:
 
 ![Screenshot of About Me section](docs/webpage-screenshots/about-me.webp)
 
 #### *Call To Action*
 
-A call to action is a prompt on a website that tells the visitor to take a specified action. On the LychParlour photography site this is the collection of three images at the bottom of the home page with clickable links on them. This is a request that if the visitor wishes to know more about the photographers services then th click the link or to contact them.
+A call to action is a prompt on a website that tells the visitor to take a specified action. On the LychParlour photography site this is the collection of three images at the bottom of the home page with clickable links on them. This is a request that allows the visitor to learn more about the photographer's services they can click the link or to contact them.
 Below is a screenshot from the site showing the call to action images:
 
 ![Screenshot of the call to action images](docs/webpage-screenshots/c2a-images-new.png)
@@ -161,25 +161,45 @@ A footer is at the bottom of the page, usually includes important information su
 #### *Gallery*
 
 Having a gallery is a way of integrating images into a website, allowing visitors to see several images clearly at once.
-LychParlour photography uses the gallery to show a portfolio of there works, this is to intrigue the visitor and encourage them to hire or collaberate with photographer.
+LychParlour photography uses the gallery to show a portfolio of their work, this is to intrigue the visitor and encourage them to hire or collaborate with photographer.
 
 ![Screenshot of webpage Gallery page](docs/webpage-screenshots/gallery.webp)
 
-Contact
+#### *Contact*
+
+This contact page gives the visitor a form to contact the photographer directly with any queries they may have.
+The contact page is designed so that the visitor must fill out all sections of the form before they can send their query. This allows the photographer to have contact details so that they may reply to the visitors.
+Below is a screenshot of the contact page from the site.
 
 ![Screenshot of webpage Contact Me page](docs/webpage-screenshots/contact-us.webp)
 
-thank you page
+#### *Thank You Page*
 
-404
+This thank you page is a landing page from the contact form it is here so once the form is completed the visitor to the page can still navigate around the site.
+Below is the screenshot of the thank you page.
 
-### Future Implementations
+![Screenshot of webpage Thank You page](docs/webpage-screenshots/thank-you-page.png)
+
+#### *Error 404*
+
+If a visitor tries typing in part of the LychParlour photography websites url and makes a mistake, they will be direceted to the error 404 page.
+Error 404 is a status code meaning what the visitor had typed in could not be found.
+The LychParlour 404 has a helpful link that will bring the visitor back to the home page so if they do go astray they can find their way back quickly.
+
+![Screenshot of webpage Error 404 page](docs/webpage-screenshots/404.png)
+
+### *Future Implementations*
+
+In the future there are some improvements and other features that I would like to add to the website.
+Firstly, a store area so that visitors would be able to make purchases directly through the site.
+Next, a Newsletter and and membership area where repeat visitors would be able to sign up, keep up to date with the photolgrapher and be offered discounts.
+Finally, an addition of some check boxes to the contact form so that the messages from visitors can be organised for an easier response by the photographer
 
 ---
 
-## Accessibility
+## ***Accessibility***
 
-I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
+I have been mindful during coding to ensure that the website is as accessible and friendly as possible. I have achieved this by:
 
 - Using semantic HTML.
 - Using descriptive alt attributes on images on the site.
@@ -188,13 +208,13 @@ I have been mindful during coding to ensure that the website is as accessible fr
 
 ---
 
-## Technologies Used
+## ***Technologies Used***
 
-### Languages Used
+### *Languages Used*
 
 HTML and CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used
+### *Frameworks, Libraries & Programs Used*
 
 Github - To save and store the files for the website.
 
@@ -208,39 +228,89 @@ Favicon.io - To create favicon.
 
 ---
 
-## Deployment
+## ***Deployment***
 
-### Deployment
+### *Deployment*
 
 Github Pages were used to deploy the live website. The instructions to achieve this are:
 
-Log in (or sign up) to Github. Find the repository for this project, LychParlour-photography. Click on the Settings link. Click on the Pages link in the left hand side navigation bar. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu. Click Save. Your live Github Pages site is now deployed at the URL shown.
+Log in (or sign up) to Github. Find the repository for this project, LychParlour-photography. Click on the Settings link. Click on the Pages link in the navigation bar on the left. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu. Click Save. Your live Github Pages site is now deployed at the URL shown.
+With each new commit and git push the deployed site will update.
 
-### Local Development
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
+### *Local Development*
+The local development section gives instructions on how someone else could make a copy of your project to use on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
 
-### How to Fork
-To fork the LychParlour-photographyrepository:
-
+### *How to Fork*
+To fork the LychParlour-photography repository:
 Log in (or sign up) to Github. Go to the repository for this project, TommySpecs/LychParlour-photography. Click the Fork button in the top right corner.
 
-### How to Clone
+### *How to Clone*
 To clone the LychParlour-photography repository:
-
-Log in (or sign up) to GitHub. Go to the repository for this project, TommySpecs/LychParlour-photograph. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
-
----
-
-## Testing
-
-[testing](#https://github.com/TommySpecs/LychParlour-photography/blob/main/testing.md)
+Starts the same way of how to fork the repository. Log in (or sign up) to Github. Go to the repository for this project, TommySpecs/LychParlour-photography. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory. Type 'git clone' into the terminal and then paste the link that was copied. Press enter.
 
 ---
 
-## Credits
+## ***Testing***
 
-### Content
+[testing](https://github.com/TommySpecs/LychParlour-photography/blob/main/testing.md)
 
-Love Running
+---
 
-### Media
+## ***Credits***
+
+### *Content*
+
+https://tinypng.com/ - image compressor
+
+https://cloudconvert.com/jpg-to-webp  - image converter and resizer
+
+https://www.birme.net/?no_resize=true -image resizer
+
+https://unsplash.com/ - images
+
+https://www.pexels.com/ - images
+
+https://www.color-hex.com/ - hex code finder
+
+https://coolors.co/  - color palette generator
+
+https://docs.gitlab.com/ee/topics/git/git_rebase.html  - Git commit fix
+
+https://success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover - Gallery image enlarge code
+
+https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,And%20that's%20it – aligning images on index page
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images - fixing background image on contact page
+
+https://www.w3.org/TR/html401/present/graphics.html#:~:text=It%20is%20possible%20to%20achieve,%22mypar%22%3E... – code for text in <p> elements
+
+https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/ -Love Running Project example
+
+https://css-tricks.com/inclusively-hidden/ - inclusively hidden
+
+### *Media*
+
+Boxer – provided by myself
+broken-camera - christian-bolt-_IR0185tRzA-unsplash
+cuddle-puppy -pexels-helena-lopes-1378849
+duck– provided by myself
+family1 - pexels-emma-bauso-2253879
+family2 - pexels-ksenia-chernaya-3730990
+female-headshot - pexels-becca-correia-3770254
+field-of-grass- aaron-burden-yzgF-AQt1sQ-unsplash
+flower1 – provided by myself
+flower2 – provided by myself
+Frenchie - pexels-pixabay-160846
+Hero1- gabe-hobbs-Py3wHdjMaAI-unsplash
+Hero2- nathan-anderson-04OtkxJTQR4-unsplash
+Holding-hands - danie-franco-7XqL_DVuBMw-unsplash
+Lion- pexels-ardit-mbrati-14659604
+Male-headshot - pexels-monstera-production-5384445
+Moorhen – provided by myself
+Moss -– provided by myself
+Robin-– provided by myself
+Tree-in-puddle – provided by myself
+Wedding-table- aaron-burden-yzgF-AQt1sQ-unsplash
+Wedding1 - pexels-jonathan-borba-3014856
+Wedding2 - pexels-wallace-araujo-3491999
+Wolf - pexels-pixabay-2361

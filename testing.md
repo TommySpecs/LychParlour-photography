@@ -1,4 +1,4 @@
-# Project 1 - LychParlour-photgraphy TESTING
+# Project 1 - LychParlour-photography TESTING
 
 ## Contents
 - [Automated Testing](#automated-testing)
@@ -46,10 +46,10 @@ CSS Validation can only be done by copying and pasting the CSS file contents int
 ##### CSS
 ![CSS](docs/test-images/css-validator.png)
 
-### Light house
+### Lighthouse
 
-Lighthouse was used which is found within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
-my primary focus for this site was the accessibility.
+Lighthouse was used which is found within the Chrome Developer Tools to allow me to test the performance, accessibility and SEO of the website.
+My primary focus for this site was the accessibility.
 
 ##### Index
 ![Lighthouse index](docs/test-images/lighthouse-index-desktop.png)
@@ -66,7 +66,7 @@ my primary focus for this site was the accessibility.
 
 ### WAVE
 
-As accessibility was one of my main focuses for this website I also used WAVE testing.
+As accessibility was one of my main focuses for this website I used WAVE testing.
 WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ##### Index
@@ -85,7 +85,7 @@ WAVE is a suite of evaluation tools that helps authors make their web content mo
 
 ## Manual testing
 
-Some of the website functions need to be tested manually, such as links around the page or the functionality and responsivness of added features. 
+Some of the website functions needed to be tested manually, such as links around the page or the functionality and responsivness of added features. 
 
 ### Devices Used
 
@@ -203,5 +203,5 @@ Safari
 |The text box in contact page cursor was starting from the center of the box | remove the txt box and impliment a text area| 
 
 #### Known bugs
-- The alignment of the images in the gallery, I have attempoted add more images of various sizes to fill the gaps to little success.
-- he perfomrance on the Gallery page is not great, I had tried to convert the format and compress the images but this had minimal impact.
+- The alignment of the images in the gallery. I have attempted add more images in a variety of sizes with little success.
+- The perfomrance on the Gallery page is not optimal, I had tried to convert and compress the images but this had minimal impact.

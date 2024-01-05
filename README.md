@@ -120,7 +120,7 @@ Website features are the many individual components that make up the site, makin
 
 The favicon is a small image that can be seen on the top left of the visitors tab when they have the site open.
 It is used so if the visitor to the site has multiple tabs open in their browser to see that LychParlour photography is one of those tabs and can be located with ease.
-please see the example of the LychPArlour photgraphy favicon:
+Please see the example of the LychPArlour photgraphy favicon:
 
 ![screenshot of tab on broweer](docs/webpage-screenshots/favicon.webp)
 
@@ -141,21 +141,27 @@ Below is an image of the header and hero section:
 
 #### *About Me Section*
 This section is a view into the photographers ethos, why they take the pictures they do and invites the visitor to get to know them better in hopes that the visitor would like to hire them or work with them.
-below is a screenshot from the site showing the about me section:
+Below is a screenshot from the site showing the about me section:
 
 ![Screenshot of About Me section](docs/webpage-screenshots/about-me.webp)
 
 #### *Call To Action*
 
 A call to action is a prompt on a website that tells the visitor to take a specified action. On the LychParlour photography site this is the collection of three images at the bottom of the home page with clickable links on them. This is a request that if the visitor wishes to know more about the photographers services then th click the link or to contact them.
+Below is a screenshot from the site showing the call to action images:
 
-![Screenshot of the call to action images](docs/webpage-screenshots/c2a-images.webp)
+![Screenshot of the call to action images](docs/webpage-screenshots/c2a-images-new.png)
 
-A footer which contains social media icon links to facebook, Instagram, Twitter & TikTok. Icons were used to keep the footer clean and because they are universally recognisable.
+#### *Footer*
+
+A footer is at the bottom of the page, usually includes important information such as a copyright notice for example. The LychParlour photography site footer contains social media icon links to facebook, Instagram, Twitter & TikTok,these open in new tabs so the visitor does not lose the original page.
 
 ![Screenshot of webpage footer](docs/webpage-screenshots/footer.webp)
 
-Gallery
+#### *Gallery*
+
+Having a gallery is a way of integrating images into a website, allowing visitors to see several images clearly at once.
+LychParlour photography uses the gallery to show a portfolio of there works, this is to intrigue the visitor and encourage them to hire or collaberate with photographer.
 
 ![Screenshot of webpage Gallery page](docs/webpage-screenshots/gallery.webp)
 
@@ -175,10 +181,10 @@ thank you page
 
 I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
 
-Using semantic HTML.
-Using descriptive alt attributes on images on the site.
-Ensuring that there is a sufficient colour contrast throughout the site.
-Ensuring menus are accessible by marking the current page as current for screen readers.
+- Using semantic HTML.
+- Using descriptive alt attributes on images on the site.
+- Ensuring that there is a sufficient colour contrast throughout the site.
+- Ensuring menus are accessible by marking the current page as current for screen readers.
 
 ---
 
@@ -227,7 +233,7 @@ Log in (or sign up) to GitHub. Go to the repository for this project, TommySpecs
 
 ## Testing
 
--link to testing.md
+[testing](#https://github.com/TommySpecs/LychParlour-photography/blob/main/testing.md)
 
 ---
 

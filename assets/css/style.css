@@ -304,7 +304,8 @@ footer {
 }
 
 .error-img{
-    width: 50%
+    width: 50%;
+    text-align: center;
 }
 
 /*Media query: large or landscape phones (578px and up)*/

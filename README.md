@@ -216,15 +216,15 @@ HTML and CSS were used to create this website.
 
 ### *Frameworks, Libraries & Programs Used*
 
-Github - To save and store the files for the website.
+- Github - To save and store the files for the website.
 
-Google Fonts - To import the fonts used on the website.
+- Google Fonts - To import the fonts used on the website.
 
-Font Awesome - For the iconography on the website.
+- Font Awesome - For the iconography on the website.
 
-Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+- Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-Favicon.io - To create favicon.
+- Favicon.io - To create favicon.
 
 ---
 
@@ -260,57 +260,49 @@ Starts the same way of how to fork the repository. Log in (or sign up) to Github
 
 ### *Content*
 
-https://tinypng.com/ - image compressor
-
-https://cloudconvert.com/jpg-to-webp  - image converter and resizer
-
-https://www.birme.net/?no_resize=true -image resizer
-
-https://unsplash.com/ - images
-
-https://www.pexels.com/ - images
-
-https://www.color-hex.com/ - hex code finder
-
-https://coolors.co/  - color palette generator
-
-https://docs.gitlab.com/ee/topics/git/git_rebase.html  - Git commit fix
-
-https://success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover - Gallery image enlarge code
-
-https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,And%20that's%20it – aligning images on index page
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images - fixing background image on contact page
-
-https://www.w3.org/TR/html401/present/graphics.html#:~:text=It%20is%20possible%20to%20achieve,%22mypar%22%3E... – code for text in <p> elements
-
-https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/ -Love Running Project example
-
-https://css-tricks.com/inclusively-hidden/ - inclusively hidden
+|URL|Reason for use|
+|---|---------------|
+| https://tinypng.com/ | image compressor |
+| https://cloudconvert.com/jpg-to-webp | image converter and resizer|
+| https://www.birme.net/?no_resize=true | image resizer|
+| https://www.color-hex.com/ |  hex code finder|
+| https://coolors.co/ | color palette generator|
+| https://docs.gitlab.com/ee/topics/git/git_rebase.html |  Git commit fix |
+| https://success.appen.com/hc/en-us/articles/202703155-CSS-Guide-to-Enlarge-Images-on-Hover |  Gallery image enlarge code|
+| https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,And%20that's%20it | aligning images on index page |
+| https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images |  fixing background image on contact page |
+|  https://www.w3.org/TR/html401/present/graphics.html#:~:text=It%20is%20possible%20to%20achieve,%22mypar%22%3E... | code for text in P elements|
+|https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/ | Love Running Project example|
+|https://css-tricks.com/inclusively-hidden/ | inclusively hidden |
 
 ### *Media*
+https://unsplash.com/ 
 
-Boxer – provided by myself
-broken-camera - christian-bolt-_IR0185tRzA-unsplash
-cuddle-puppy -pexels-helena-lopes-1378849
-duck– provided by myself
-family1 - pexels-emma-bauso-2253879
-family2 - pexels-ksenia-chernaya-3730990
-female-headshot - pexels-becca-correia-3770254
-field-of-grass- aaron-burden-yzgF-AQt1sQ-unsplash
-flower1 – provided by myself
-flower2 – provided by myself
-Frenchie - pexels-pixabay-160846
-Hero1- gabe-hobbs-Py3wHdjMaAI-unsplash
-Hero2- nathan-anderson-04OtkxJTQR4-unsplash
-Holding-hands - danie-franco-7XqL_DVuBMw-unsplash
-Lion- pexels-ardit-mbrati-14659604
-Male-headshot - pexels-monstera-production-5384445
-Moorhen – provided by myself
-Moss -– provided by myself
-Robin-– provided by myself
-Tree-in-puddle – provided by myself
-Wedding-table- aaron-burden-yzgF-AQt1sQ-unsplash
-Wedding1 - pexels-jonathan-borba-3014856
-Wedding2 - pexels-wallace-araujo-3491999
-Wolf - pexels-pixabay-2361
+https://www.pexels.com/ 
+
+|Image name | Source|
+|-----------|-------|
+|boxer | provided by myself|
+|broken-camera | christian-bolt-_IR0185tRzA-unsplash|
+|cuddle-puppy | pexels-helena-lopes-1378849 |
+|duck | provided by myself|
+|family1 | pexels-emma-bauso-2253879 |
+|family2 | pexels-ksenia-chernaya-3730990 |
+|female-headshot | pexels-becca-correia-3770254|
+|field-of-grass | aaron-burden-yzgF-AQt1sQ-unsplash|
+|flower1  |provided by myself|
+|flower2 | provided by myself|
+|Frenchie | pexels-pixabay-160846|
+|Hero1 | gabe-hobbs-Py3wHdjMaAI-unsplash|
+|Hero2 | nathan-anderson-04OtkxJTQR4-unsplash|
+|Holding-hands | danie-franco-7XqL_DVuBMw-unsplash|
+|Lion- pexels | ardit-mbrati-14659604|
+|Male-headshot | pexels-monstera-production-5384445|
+|Moorhen | provided by myself|
+| Moss  | provided by myself|
+| Robin | provided by myself|
+|Tree-in-puddle | provided by myself |
+|Wedding-table | aaron-burden-yzgF-AQt1sQ-unsplash |
+|Wedding1 | pexels-jonathan-borba-3014856 |
+|Wedding2 | pexels-wallace-araujo-3491999 |
+|Wolf | pexels-pixabay-2361 |

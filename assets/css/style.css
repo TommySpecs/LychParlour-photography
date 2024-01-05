@@ -202,11 +202,12 @@ hr {
 #photos img {
     width: 100%;
     line-height: 1em;
+    height:auto;
 }
 
 #photos {
     line-height: 0;
-}
+    }
 
 /* Form */
 #contact {
@@ -297,10 +298,13 @@ footer {
 /*404 Page*/
 .container{
     color: #ffffff;
-    background-color: rgba(143, 151, 121, .7);
-    padding: 30px;
+    background-color: rgba(143, 151, 121, .7);    
     font-size: 150%;
     text-align:center;
+}
+
+.error-img{
+    width: 50%
 }
 
 /*Media query: large or landscape phones (578px and up)*/

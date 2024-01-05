@@ -34,6 +34,10 @@ The target visitors to this sight are:
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
   - [Deployment](#deployment)
+    - [Deployment](#deployment-1)
+    - [Local Development](#local-development)
+    - [How to Fork](#how-to-fork)
+    - [How to Clone](#how-to-clone)
   - [Testing](#testing)
   - [Credits](#credits)
     - [Content](#content)
@@ -99,7 +103,7 @@ Where as Josefin felt like it flowed nicer and made the text look slightly less 
 
 ### *image sourcing*
 
-Images for this site were sourced from my own photographs, which I took and two websites:
+Images for this site were sourced from my own photographs and two websites:
 
 - unsplash
 - pexels
@@ -180,6 +184,25 @@ Favicon.io - To create favicon.
 ---
 
 ## Deployment
+
+### Deployment
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+Log in (or sign up) to Github. Find the repository for this project, LychParlour-photography. Click on the Settings link. Click on the Pages link in the left hand side navigation bar. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+### Local Development
+The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
+
+### How to Fork
+To fork the LychParlour-photographyrepository:
+
+Log in (or sign up) to Github. Go to the repository for this project, TommySpecs/LychParlour-photography. Click the Fork button in the top right corner.
+
+### How to Clone
+To clone the LychParlour-photography repository:
+
+Log in (or sign up) to GitHub. Go to the repository for this project, TommySpecs/LychParlour-photograph. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ---
 

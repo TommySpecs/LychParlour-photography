@@ -145,7 +145,10 @@ below is a screenshot from the site showing the about me section:
 
 ![Screenshot of About Me section](docs/webpage-screenshots/about-me.webp)
 
-call to action
+#### *Call To Action*
+
+A call to action is a prompt on a website that tells the visitor to take a specified action. On the LychParlour photography site this is the collection of three images at the bottom of the home page with clickable links on them. This is a request that if the visitor wishes to know more about the photographers services then th click the link or to contact them.
+
 ![Screenshot of the call to action images](docs/webpage-screenshots/c2a-images.webp)
 
 A footer which contains social media icon links to facebook, Instagram, Twitter & TikTok. Icons were used to keep the footer clean and because they are universally recognisable.

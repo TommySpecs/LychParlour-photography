@@ -169,7 +169,7 @@ hr {
     min-height: 50px;
     padding-top: 10px;
     padding-left: 10px;
-    right: 30px;
+    right: 30px;  
 }
 
 .family {
@@ -180,7 +180,7 @@ hr {
     min-height: 50px;
     padding-top: 10px;
     padding-left: 10px;
-    right: 30px;
+    right: 30px;   
 }
 
 .pet {
@@ -191,7 +191,19 @@ hr {
     min-height: 50px;
     padding-top: 10px;
     padding-left: 10px;
-    right: 30px;
+    right: 30px;  
+}
+.wedding a{
+    text-decoration:none;
+    color:inherit;
+}
+.family a{
+    text-decoration:none;
+    color:inherit;
+}
+.pet a{
+    text-decoration:none;
+    color:inherit;
 }
 
 /*Gallery Page*/
@@ -296,17 +308,12 @@ footer {
 }
 
 /*404 Page*/
-.container{
-    color: #ffffff;
-    background-color: rgba(143, 151, 121, .7);    
-    font-size: 150%;
+.container{  
     text-align:center;
 }
 
 .error-img{
-    height:300px;
-    width: 50%;
-    text-align: center;
+       width: 50%;   
 }
 
 /*Media query: large or landscape phones (578px and up)*/

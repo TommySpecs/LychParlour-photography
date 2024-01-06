@@ -294,7 +294,7 @@ https://unsplash.com/
 
 https://www.pexels.com/ 
 
-| https://coolors.co/ - used to generate the palette for the README.md doc
+https://coolors.co/ - used to generate the palette for the README.md doc
 
 |Image name | Source|
 |-----------|-------|
